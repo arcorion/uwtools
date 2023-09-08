@@ -17,7 +17,8 @@ setuptools.setup(name='uwtools',
           'tqdm',
           'pandas',
           'beautifulsoup4',
-          'requests'
+          'requests',
+          'lxml'
       ],
       package_data = {
           'uwtools': ['*']
